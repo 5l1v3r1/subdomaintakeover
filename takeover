@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Subdomain Takeover POC</title>
+</head>
+<body>
+<center>
+	<h2>Subdomain Hijacked!!!</h2>
+</center>
+<script>alert('PWNED!!!')</script>
+</body>
+</html>
